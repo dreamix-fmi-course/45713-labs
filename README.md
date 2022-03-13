@@ -1,1 +1,1 @@
-# 45713-labs
+Peter Stoyanov's lab exercises
